@@ -6,6 +6,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### 'npm install --force'
+
+All the packages are already installed through package.json, any other packages can be installed using 
+
+### 'npm install <package name>'
+
 ### `npm start`
 
 Runs the app in the development mode.\
